@@ -1,0 +1,54 @@
+{
+  "QuestionsList": [
+    {
+      "question": "What is the primary purpose of the Java Virtual Machine (JVM)?",
+      "choices": ["To compile Java source code", "To interpret Java bytecode", "To manage memory allocation", "To perform garbage collection"],
+      "answer": "B"
+    },
+    {
+      "question": "Which keyword is used to create a subclass in Java?",
+      "choices": ["extends", "implements", "inherits", "subclass"],
+      "answer": "A"
+    },
+    {
+      "question": "What is the default value of a boolean variable in Java?",
+      "choices": ["true", "false", "0", "1"],
+      "answer": "B"
+    },
+    {
+      "question": "Which method must be implemented by all Java threads?",
+      "choices": ["run()", "start()", "execute()", "init()"],
+      "answer": "A"
+    },
+    {
+      "question": "What does the 'static' keyword mean in Java?",
+      "choices": ["The variable or method belongs to an instance of the class", "The variable or method belongs to the class itself", "The variable or method cannot be changed", "The variable or method is synchronized"],
+      "answer": "B"
+    },
+    {
+      "question": "Which interface does java.util.HashSet implement?",
+      "choices": ["List", "Map", "Set", "Collection"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the output of the following code: System.out.println(3 + 4 + \"Hello\");",
+      "choices": ["7Hello", "34Hello", "Hello34", "Hello7"],
+      "answer": "A"
+    },
+    {
+      "question": "Which of the following is not a Java keyword?",
+      "choices": ["final", "static", "private", "constant"],
+      "answer": "D"
+    },
+    {
+      "question": "What is the return type of the hashCode() method in Java?",
+      "choices": ["int", "long", "float", "double"],
+      "answer": "A"
+    },
+    {
+      "question": "Which exception is thrown when a method cannot find a required class definition?",
+      "choices": ["ClassNotFoundException", "NoClassDefFoundError", "InstantiationException", "IllegalAccessException"],
+      "answer": "A"
+    }
+  ]
+}
